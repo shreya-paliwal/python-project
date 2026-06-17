@@ -29,10 +29,10 @@ while playagain:
         print("Bad luck!! Next time.🙁\n")
     print("**********\n**********\nWant to play again?😀")
 
-    #user input for playagain
-    playagain = input(" Press Y for YES\n Press N for NO\n**********\n").lower()
+    #user input for play again
+    play_again = input(" Press Y for YES\n Press N for NO\n**********\n").lower()
 
-    if playagain == "y":
+    if play_again == "y":
         continue
     else:
         print(f"You won {score} times out of {games} games!")
