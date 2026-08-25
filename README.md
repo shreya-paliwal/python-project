@@ -6,8 +6,8 @@ The three games are as follows:
 
 
 1. Guess The Number game
-   File required: project1_guesstheno.py
-   A simple game that generates a random number from the given list, and asks for the user input to guess the number correctly.
+File required: project1_guesstheno.py
+A simple game that generates a random number from the given list, and asks for the user input to guess the number correctly.
 
 
 2. Rock Paper Scissors game
